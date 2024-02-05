@@ -1,0 +1,16 @@
+.phone {
+  --PhoneInputCountrySelectArrow-borderWidth: 2px;
+  border: none !important;
+}
+
+.PhoneInput {
+  /* This is done to stretch the contents of this component. */
+  display: flex;
+  align-items: center;
+
+  border: none !important;
+}
+
+.PhoneInputInput {
+  border: none !important;
+}
